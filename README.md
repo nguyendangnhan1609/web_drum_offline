@@ -23,4 +23,4 @@
       JavaScript setTimeout() Method
       audiomass.co: tạo và chỉnh sửa âm thanh
    5. Hỗ trợ lập trình:
-      Cursor AI  
+      Cursor AI.  
